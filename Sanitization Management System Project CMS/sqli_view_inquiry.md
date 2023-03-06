@@ -1,5 +1,5 @@
 # Sanitization Management System v1.0 has SQLI in /php-sms/admin/?page=inquiries/view_inquiry
-
+CVE-2022-44137
 Author: y1s3m0
 
 vendors: https://www.sourcecodester.com/php/15770/sanitization-management-system-project-php-and-mysql-free-source-code.html

@@ -1,5 +1,5 @@
 # Rukovoditel v3.2.1 has Remote Code Execution in ajax_request.php
-
+CVE-2022-48175
 Author: y1s3m0
 
 vendors: 
